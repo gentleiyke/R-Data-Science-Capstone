@@ -1,0 +1,566 @@
+COUNTRY,CITY,SYSTEM,BICYCLES
+Albania,Tirana,,200
+Argentina,Buenos Aires,Serttel Brasil,4000
+Argentina,Mendoza,,40
+Argentina,Rosario,,480
+Argentina,"San Lorenzo, Santa Fe",Biciudad,80
+Australia,Melbourne,PBSC & 8D,676
+Australia,Melbourne,4 Gen. oBike,1250
+Australia,Brisbane,3 Gen. Cyclocity,2000
+Australia,Sydney,4 Gen. oBike,1250
+Australia,Sydney,4 Gen. Ofo,600
+Australia,Sydney,Reddy Go,2000
+Austria,Burgenland,3 Gen. nextbike,NA
+Austria,Lower Austria,3 Gen. nextbike,1300
+Austria,Salzburg,3 Gen. nextbike,NA
+Austria,Vienna,3 Gen. Cyclocity,1500
+Austria,Vienna,2 Gen.,1500
+Austria,Vorarlberg,3 Gen. nextbike,70
+Bangladesh,Dhaka,JoBike,300
+Belgium,Different locations,Blue-bike,1790
+Belgium,Antwerp,3 Gen. Clear CC,4200
+Belgium,Brussels,3 Gen. Cyclocity,4115
+Belgium,Namur,3 Gen. Cyclocity,200
+Bosnia and Herzegovina,Banja Luka,3 Gen.nextbike,30
+Bosnia and Herzegovina,Mostar,3 Gen.nextbike,50
+Bosnia and Herzegovina,Sarajevo,3 Gen.nextbike,150
+Bosnia and Herzegovina,Tuzla,"3 Gen.
+nextbike",20
+Bosnia and Herzegovina,Zenica,3 Gen.nextbike,60
+Brazil,Belo Horizonte,Mobilicidade,400
+Brazil,Fortaleza,Mobilicidade,800
+Brazil,João Pessoa,Mobilicidade,20
+Brazil,(Pedro de) Toledo,Toopedalando,60
+Brazil,Rio de Janeiro,tembici,300
+Brazil,Salvador,tembici,NA
+Brazil,São Paulo,tembici,600
+Brazil,Sorocaba,tembici,120
+Bulgaria,Burgas,Mobilicidade,120
+Canada,Hamilton,Social Bicycles,750
+Canada,"Kitchener, Ontario",Community Access Bicycles,65
+Canada,Montreal,PBSC & 8D,7270
+Canada,Quebec City,PBSC,780
+Canada,Toronto,PBSC,7100
+Canada,Vancouver,3 Gen. CycleHop,2200
+Canada,Victoria,,NA
+Chile,Santiago,3 Gen. B-Cycle,NA
+China,Anqiu,,2280
+China,Baoji,,2000
+China,Beijing,,16000
+China,Changzhou,,NA
+China,Chengdu (Jinniu District),Shanghai Forever Bicycle Co.,1500
+China,Chengdu (Gaoxin District ,,1200
+China,Foshan,,11694
+China,Fuzhou,,1400
+China,Guangzhou,,4840
+China,Haikou,,3000
+China,Haining,,2200
+China,Hangzhou,,78000
+China,Heihe,,2230
+China,Heze,,2000
+China,Hohhot,,5100
+China,Huaian,,7000
+China,Huaibei,,3000
+China,Huangyan,,2500
+China,Huizhou,,10000
+China,Huzhou,,NA
+China,Jiangyin,,700
+China,Jiaxing,,7800
+China,Jinhua,,3000
+China,Jiujiang,,120
+China,Jiyuan,,500
+China,Kaixian,,1600
+China,Kunshan,Forever Bicycle,20000
+China,Lanxi,,1500
+China,Lanzhou,,2000
+China,Lhasa,,242
+China,Linhai,,2700
+China,Lishui,,800
+China,Luoyang,,1000
+China,Maanshan,,NA
+China,Nanning,,1000
+China,Nantong,Forever Publicbike Intelligent Systems,3800
+China,Ningbo,,15000
+China,Qingzhou,,10300
+China,Shanghai,Forever Bicycle,19165
+China,Shaoxing,,9000
+China,Shenzhen / Shekou / Xiaomeisha,Forever Bicycle,350
+China,Suzhou,,22940
+China,Taiyuan,,41000
+China,"Taizhou, Jiangsu",,2000
+China,"Taizhou, Jiangsu",,13000
+China,Weifang,,20000
+China,Wuhu,,12000
+China,Wuxi,,1500
+China,Xi'an,,20000
+China,Xuzhou,,18000
+China,Yangzhou,,5000
+China,Yantai,,6000
+China,Yiwu,,1000
+China,Yixing,,3600
+China,Yueyang,,5000
+China,Zhangjiagang,Forever Bicycle,3200
+China,Zhenjiang,,2000
+China,Zhijin,,1000
+China,Zhongshan,,11180
+China,Zhuhai,,5000
+China,Zhuzhou,Foshan Tianzhou,20000
+Colombia,Medellin,3 Gen (formally 0 Gen),1400
+Croatia,Zagreb,3 Gen. nextbike,100
+Cyprus,Limassol,3 Gen. nextbike,170
+Cyprus,Pissouri,own pedelecs,10
+Cyprus,Nicosia,EasyBike,315
+Cyprus,"Limassol, Nicosia District",3 Gen. Smoove,310
+Czechia,Brno,4 Gen.,50
+Czechia,České Budějovice,4 Gen.,100
+Czechia,Frýdek-Místek,4 Gen.,80
+Czechia,Hradec Králové,4 Gen.,NA
+Czechia,Kladno,4 Gen.,80
+Czechia,Liberec,4 Gen.,100
+Czechia,Pardubice,4 Gen.,NA
+Czechia,Prague,4 Gen.,500
+Czechia,Prague,,500
+Czechia,Prague 4 and Brno,,NA
+Czechia,Prague 7,4 Gen. Ofo,NA
+Czechia,Prostějov,3 Gen. nextbike,180
+Czechia,Olomouc,4 Gen.,70
+Czechia,Ostrava,4 Gen.,180
+Czechia,Ostrava,3 Gen. nextbike,600
+Czechia,Teplice,4 Gen.,40
+Denmark,Aarhus,2 Gen,450
+Denmark,Århus,2 Gen,400
+Denmark,Copenhagen,Gobike,1860
+Denmark,Copenhagen,2 Gen,NA
+Denmark,Farsø,2 Gen,NA
+Ecuador,Quito,BiciQ,425
+Emirates,Abu Dhabi,8D,75
+Estonia,Tartu,,750
+Finland,Espoo,CityBike Finland,3520
+Finland,Hamina,Donkey Republic,20
+Finland,Helsinki,3 Gen. Smoove,3450
+Finland,Helsinki,2 Gen.,NA
+Finland,Hyvinkää,Donkey Republic,60
+Finland,Iisalmi,Donkey Republic,40
+Finland,Imatra,Donkey Republic,NA
+Finland,Kotka,Donkey Republic,90
+Finland,Kouvola,Donkey Republic,60
+Finland,Kuopio,Freebike,350
+Finland,Lahti,Freebike,250
+Finland,Lappeenranta,Donkey Republic,120
+Finland,Mikkeli,Donkey Republic,30
+Finland,Mäntsälä,Donkey Republic,NA
+Finland,Oulu,,600
+Finland,Pori,Rolanbike,50
+Finland,Porvoo,Donkey Republic,100
+Finland,Raseborg,Donkey Republic,30
+Finland,Riihimäki,Donkey Republic,60
+Finland,Rauma,Easybike,50
+Finland,Seinäjoki,Easybike,50
+Finland,Tampere,CityBike Global,700
+Finland,Turku,Nextbike,700
+Finland,Vaasa,4 Gen.,60
+Finland,Vantaa,CityBike,1000
+Finland,Varkaus,Juro,20
+France,Amiens,3 Gen. Cyclocity,250
+France,Angers,3 Gen. Cyclocity,NA
+France,Avignon,3 Gen. Smoove,200
+France,Belfort,3 Gen. Smoove,200
+France,Besançon,3 Gen. Cyclocity,200
+France,Bordeaux,Keolis,1545
+France,Caen,3 Gen. Clear CC,350
+France,Calais,OYBike,160
+France,Cergy-Pontoise,Cyclocity,320
+France,Chalon-sur-Saône,3 Gen. Smoove,100
+France,Clermont-Ferrand,3 Gen. Smoove,100
+France,Créteil,3 Gen. Cyclocity,75
+France,Dijon,3 Gen. Clear CC,400
+France,Dunkirk,Veolia,200
+France,Grenoble,3 Gen. Smoove,1250
+France,La Rochelle,Homeport,300
+France,La Rochelle,Zero Generation,NA
+France,Lille,Keolis,1100
+France,Lyon,3 Gen. Cyclocity,4000
+France,Marseille,3 Gen. Cyclocity,672
+France,Montpellier,3 Gen. Smoove,2414
+France,Mulhouse,3 Gen. Cyclocity,240
+France,Nancy,3 Gen. Cyclocity,250
+France,Nantes,3 Gen. Cyclocity,885
+France,Nice,OYBike,1750
+France,Orléans,EFFIA,300
+France,Paris,3 Gen. Cyclocity,14500
+France,Grand Paris,3 Gen. Smoove,10500
+France,Pau,,220
+France,Perpignan,3 Gen. Clear CC,150
+France,Poitiers,,360
+France,Rennes,3 Gen. Clear CC,800
+France,Rouen,3 Gen. Cyclocity,190
+France,St. Etienne,3 Gen. Smoove,700
+France,Strasbourg,3 Gen. Smoove,1852
+France,Toulouse,3 Gen. Cyclocity,2465
+France,"Valence, Drôme",3 Gen. Smoove,380
+France,Vannes,OYBike,174
+Georgia,Batumi,3 Gen. SmooveKey,370
+Germany,Aachen,3 Gen.,NA
+Germany,Aschaffenburg,3 Gen.,NA
+Germany,Aschaffenburg,3 Call a Bike,NA
+Germany,Baden-Baden,3 & 4 Gen. Call a Bike flex,NA
+Germany,Berlin,3 & 4 Gen. Call a Bike flex,NA
+Germany,Berlin,3 & 4 Gen. Call a Bike flex,3500
+Germany,Berlin,3 Gen. nextbike,300
+Germany,Berlin,4 Gen. Ofo,NA
+Germany,Berlin,4 Gen.,600
+Germany,Berlin,4 Gen.,700
+Germany,Berlin,0. Gen,12
+Germany,Berlin,4 Gen.,500
+Germany,Berlin,4 Gen.,100
+Germany,Bielefeld,3 Gen. nextbike,NA
+Germany,Bochum,3 Gen. nextbike,30
+Germany,Bonn,3 & 4 Gen. Call a Bike flex,500
+Germany,Bottrop,3 Gen. nextbike,NA
+Germany,Bremen,4 Gen.,500
+Germany,Coburg,3 Gen. nextbike,NA
+Germany,Cologne,3 & 4 Gen. Call a Bike flex,NA
+Germany,"Ruhr Area, Dortmund",3 Gen. nextbike,NA
+Germany,Darmstadt,3 & 4 Gen. Call a Bike flex,350
+Germany,Dresden,3 Gen. nextbike,500
+Germany,Duisburg,3 Gen.,NA
+Germany,Düsseldorf,3 Gen. nextbike,400
+Germany,Düsseldorf,4 Gen.,400
+Germany,Düsseldorf,4 Gen.,600
+Germany,Düsseldorf,3 Gen. Call a Bike,1200
+Germany,Dortmund,3 Gen. nextbike,400
+Germany,Dreieich,4 Gen.,100
+Germany,Erfurt,3 Gen. nextbike,30
+Germany,Essen,3 Gen. nextbike,NA
+Germany,Flensburg,3 Gen. nextbike,30
+Germany,Frankfurt am Main,3 & 4 Gen. Call a Bike flex,NA
+Germany,Frankfurt am Main,3 Gen. nextbike,300
+Germany,Frankfurt am Main,4 Gen.,100
+Germany,Frankfurt am Main,4 Gen.,500
+Germany,Gelsenkirchen,3 Gen. nextbike,NA
+Germany,Freiburg im Breisgau,3 & 4 Gen. Call a Bike flex,NA
+Germany,Freiburg im Breisgau,3 Gen. nextbike,NA
+Germany,Hamburg,3 & 4 Gen. Call a Bike flex,2450
+Germany,Hamburg,3 Gen. nextbike,250
+Germany,Hamm,3 Gen. nextbike,50
+Germany,Hannover,4 Gen. oBike,500
+Germany,Herne,3 Gen. nextbike,45
+Germany,Karlsruhe,,NA
+Germany,Kassel,,NA
+Germany,Leipzig,3 Gen. nextbike,500
+Germany,Magdeburg,3 Gen. nextbike,100
+Germany,Mainz,,1000
+Germany,Munich,4 Gen. Call a Bike flex,NA
+Germany,Munich,3 Gen. nextbike,3000
+Germany,Mülheim a. Ruhr,3 Gen. nextbike,65
+Germany,Münster,,175
+Germany,Nuremberg,3 Gen. nextbike,750
+Germany,Nuremberg,Bluepingu e.V.,5
+Germany,Nuremberg,3 & 4 Gen. nextbike,1500
+Germany,Oberhausen,3 Gen. nextbike,40
+Germany,Offenburg,3 Gen. nextbike,86
+Germany,Potsdam,3 Gen. nextbike,150
+Germany,Stuttgart,4 Gen. Call a Bike fix,400
+Germany,Tübingen,3 Gen. nextbike,50
+Greece,Aigialeia,3 Gen.,45
+Greece,Aktio-Vonitsa,3 Gen.,35
+Greece,Ancient Olympia,3 Gen.,60
+Greece,Corfu,3 Gen. Smoove,100
+Greece,Didymóteicho,3 Gen. Smoove,100
+Greece,East Mani,3 Gen. Smoove,100
+Greece,Ioannina,3 Gen. Smoove,10
+Greece,Iraklio,3 Gen. Smoove,100
+Greece,Karditsa,3 Gen. Smoove,60
+Greece,Kavala,3 Gen. Smoove,52
+Greece,Keratsini-Drapetsóna,3 Gen. Smoove,70
+Greece,Komotini,3 Gen. Smoove,100
+Greece,Marathónas,3 Gen.,50
+Greece,Maroussi,3 Gen.,70
+Greece,Moscháto-Távros,3 Gen.,60
+Greece,Náfplion,3 Gen.,60
+Greece,Naupactus,3 Gen. Smoove,60
+Greece,Municipality of Nafpaktosmunicipality bike rental,0 Gen.,NA
+Greece,Nea Erithréamunicipality bike rental,0 Gen.,NA
+Greece,Nea Smyrni,3 Gen.,40
+Greece,Salonica,0 Gen.,60
+Greece,Sikyona,3 Gen.,24
+Hungary,Budapest,3 Gen.,1526
+Hungary,Esztergom,,93
+Hungary,Győr,,180
+Hungary,Kaposvár,,32
+Hungary,Szeged,CityBike Szeged,100
+India,Bengaluru,,150
+India,Mumbai,,NA
+India,Mysuru,,NA
+India,New Delhi,,NA
+Indonesia,Bandung,Banopolis,350
+Iran,Shiraz,4 Gen. Bdood,2000
+Iran,Tehran,4 Gen. Bdood,5700
+Ireland,Cork,,320
+Ireland,Dublin,Cyclocity,950
+Ireland,Galway,,205
+Ireland,Limerick,,215
+Ireland,Waterford  ,,220
+Israel,Tel Aviv,,2000
+Italy,Alpignano,,8
+Italy,Brescia,,395
+Italy,Carugate,,30
+Italy,Cernusco sul Naviglio,,40
+Italy,Collegno,,35
+Italy,Druento,,5
+Italy,Florence,,NA
+Italy,Grugliasco,,30
+Italy,Milan,3 Gen. Clear CC,5430
+Italy,Milan,4 Gen.,8000
+Italy,Milan,4 Gen. Ofo,4000
+Italy,Milan,Zehus,350
+Italy,Padua,,NA
+Italy,Padua,,NA
+Italy,Pioltello,,20
+Italy,Pisa,,200
+Italy,Rimini,,NA
+Italy,Rome,,200
+Italy,Turin,,NA
+Italy,Venaria Reale,,35
+Japan,Kyoto,,NA
+Japan,"Toyama, Toyama",Cyclocity,130
+Japan,Yokohama,,300
+Kazakhstan,Almaty,3 Gen. Smoove,1700
+Kazakhstan,Astana,3 Gen. Smoove,1280
+Kazakhstan,Shymkent,3 Gen. Smoove,200
+Latvia,"Riga, Jurmala",,NA
+Lithuania,Vilnius,3 Gen. Cyclocity,300
+Lithuania,Kaunas,,160
+Lithuania,Kaunas,,150
+Luxembourg,Luxembourg City,3 Gen. Cyclocity,680
+Malaysia,George Town,Fast Rent Bike (PG),250
+Mexico,Guadalajara,PBSC,242
+Mexico,Mexico City,3 Gen. Clear CC,9308
+Mexico,Toluca,PBSC,NA
+Netherlands,Amsterdam,WhiteBikes,50
+Netherlands,"Delft, Rotterdam and The Hague",4 Gen.,NA
+Netherlands,Various Locations (especially railway stations),OV-Fiets/Nederlandse Spoorwegen,21700
+Netherlands,Various Locations,,500
+Norway,Drammen,3 Gen. Clear CC,NA
+Norway,Oslo,3 Gen. Clear CC,NA
+Norway,Sandnes,WhiteBikes,225
+Norway,Sandnes,3 Gen. Clear CC,NA
+Norway,Trondheim,Bycykler,200
+Norway,Trondheim,3 Gen. Clear CC,125
+Poland,Białystok,3 Gen. nextbike,460
+Poland,Grodzisk Mazowiecki,3 Gen. nextbike,60
+Poland,Juchnowiec Kościelny,3 Gen. nextbike,20
+Poland,Katowice,3 Gen. nextbike,40
+Poland,Konstancin,3 Gen. nextbike,55
+Poland,Kraków,,1500
+Poland,Łódź,3 Gen. nextbike,1490
+Poland,Lublin,3 Gen. nextbike,891
+Poland,Opole,3 Gen. nextbike,164
+Poland,Poznań,3 Gen. nextbike,973
+Poland,Rzeszów,,NA
+Poland,Sopot,3 Gen. nextbike,80
+Poland,Szczecin,3 Gen. nextbike,724
+Poland,Toruń,,120
+Poland,Warsaw,3 Gen. nextbike,140
+Poland,Warsaw,3 Gen. nextbike,5700
+Poland,Wrocław,3 Gen. nextbike,760
+Portugal,Águeda,3 Gen.,45
+Portugal,Alcochete,3 Gen.,10
+Portugal,Alenquer,3 Gen.,6
+Portugal,Alijó,3 Gen.,7
+Portugal,Alvito,3 Gen.,4
+Portugal,Anadia,3 Gen.,NA
+Portugal,Aveiro,3 Gen.,204
+Portugal,Benavente,3 Gen.,NA
+Portugal,Bragança,1 Gen.,20
+Portugal,Cascais,1 Gen.,NA
+Portugal,Caldas da Raínha,3 Gen.,20
+Portugal,Covilhã,3 Gen.,40
+Portugal,Entroncamento,3 Gen.,86
+Portugal,Figueira da Foz,3 Gen.,60
+Portugal,Graciosa,3 Gen.,15
+Portugal,Lisbon,3 Gen.,1600
+Portugal,Lousada,3 Gen.,21
+Portugal,Mealhada,3 Gen.,20
+Portugal,Mesão Frio,1 Gen.,4
+Portugal,Oliveira de Azeméis,2 Gen.,30
+Portugal,Pombal,3 Gen.,35
+Portugal,Santo Tirso,3 Gen.,35
+Portugal,Seia,3 Gen.,15
+Portugal,Torres Vedras,3 Gen.,260
+Portugal,"Valença,Monção,Vila Nova de Cerveira,Salvaterra do Minho,Tomiño",3 Gen.,46
+Vila do Conde,biConde,,NA
+Vilamoura,Vilamoura Public Bikes,,NA
+Romania,Bucharest,Proprietary,400
+Russia,Almetyevsk,,45
+Russia,Kazan,3 Gen. Cyclocity,120
+Russia,Moscow,Smoove,4300
+Russia,Saint-Petersburg,,800
+Serbia,Novi Sad,Parking Servis,70
+Slovakia,Bratislava,Open Source Bike Share,100
+Slovakia,Bratislava,,400
+Slovakia,Bratislava,,80
+Slovakia,Bratislava,4 Gen.,200
+Slovakia,Humenné,,40
+Slovakia,Košice,,500
+Slovakia,Krásno nad Kysucou,,40
+Slovakia,Kysucké Nové Mesto,,50
+Slovakia,Moldava nad Bodvou,,25
+Slovakia,Nitra,nextbike,70
+Slovakia,"Poprad, Spišská Teplica, Svit",,150
+Slovakia,Považská Bystrica,,60
+Slovakia,"Prešov, Veľký Šariš",,215
+Slovakia,Sabinov,,50
+Slovakia,Sečovce,,20
+Slovakia,Snina,,50
+Slovakia,Svidník,,50
+Slovakia,Terchová,,60
+Slovakia,Trebišov,,65
+Slovakia,Trnava,,118
+Slovakia,Vranov nad Topľou,,50
+Slovakia,Žilina,nextbike,123
+Slovenia,Celje,,NA
+Slovenia,Kamnik,,NA
+Slovenia,Kranj,,NA
+Slovenia,Ljubljana,Cyclocity,215
+Slovenia,Rogaška Slatina in Podčetrtek,,NA
+Slovenia,Velenje,MICikel,40
+South Africa,"Orania, Northern Cape",,30
+South Korea,Changwon,,2348
+South Korea,Daejeon,Tashu,NA
+South Korea,Sejong,Eouling & New Eouling,NA
+South Korea,Seoul,,37500
+Spain,A Coruña,,514
+Spain,Barcelona,3 Gen. Clear CC,6000
+Spain,Córdoba,3 Gen. Cyclocity,35
+Spain,Elche (Elx),,200
+Spain,Gijón,,250
+Spain,Girona,,260
+Spain,Madrid,,1580
+Spain,"Málaga, Andalucía",Cemusa,400
+Spain,"Murcia, Region of Murcia",,NA
+Spain,Palma,,336
+Spain,Pamplona,,101
+Spain,Santander,3 Gen. Cyclocity,180
+Spain,Seville,3 Gen. Cyclocity,2100
+Spain,Valencia,3 Gen. Cyclocity,2400
+Spain,Valladolid,,856
+Spain,Zaragoza,3 Gen. Clear CC,1000
+Sweden,Gothenburg,3 Gen. Cyclocity,1000
+Sweden,Lund,3 Gen. Cyclocity,250
+Sweden,Malmö,3 Gen. Clear CC,500
+Sweden,Stockholm,3 Gen. Clear CC,1000
+Switzerland,"Aigle, Monthey",PubliBike,99
+Switzerland,Bern,PubliBike,54
+Switzerland,Freiburg,PubliBike,94
+Switzerland,Lausanne,,NA
+Switzerland,Lausanne,PubliBike,251
+Switzerland,Lugano,PubliBike,88
+Switzerland,Luzern,3 Gen. nextbike,280
+Switzerland,"Nyon, Gland",PubliBike,167
+Switzerland,Sion,PubliBike,69
+Switzerland,Vevey,PubliBike,41
+Taiwan,Changhua,,NA
+Taiwan,Kaohsiung,2.0,NA
+Taiwan,Taipei,2.0,NA
+Taiwan,New Taipei,1.0 & 2.0,NA
+Taiwan,Taoyuan,1.0,NA
+Taiwan,Hsinchu County,2.0,NA
+Taiwan,Hsinchu City,1.0 & 2.0,NA
+Taiwan,Hsinchu Science Park,1.0 & 2.0,NA
+Taiwan,Miaoli,1.0 & 2.0,NA
+Taiwan,Taichung,1.0 & 2.0,NA
+Taiwan,Chiayi,2.0,NA
+Taiwan,Tainan,2.0,NA
+Taiwan,Pingtung,2.0,NA
+Thailand,Bangkok,Mobike,NA
+Thailand,Bangkok,4 Gen. oBike,NA
+Thailand,Bangkok,Smoove,125
+Thailand,Bangkok,,500
+Thailand,Chiang Mai,Mobike,NA
+Turkey,Izmir,,NA
+Turkey,Karşıyaka,3 Gen. nextbike,NA
+Turkey,Konya,3 Gen. nextbike,NA
+Ukraine,Kyiv,3 Gen. nextbike,100
+Ukraine,Lviv,3 Gen. nextbike,140
+United Kingdom,"Barton-upon-Humber, England",WhiteBikes,NA
+United Kingdom,"Belfast, Northern Ireland",3 Gen. nextbike,300
+United Kingdom,"Blackpool, England",Hourbike,400
+United Kingdom,"Bristol, England",YoBike,NA
+United Kingdom,"Cambridge, England",WhiteBikes,300
+United Kingdom,"Cardiff, Wales",3 Gen. nextbike,NA
+United Kingdom,Derby,,NA
+United Kingdom,"Dundee, Scotland",,20
+United Kingdom,"Glasgow, Scotland",3 Gen. nextbike,400
+United Kingdom,"Greater Manchester, England",,1500
+United Kingdom,"Edinburgh, Scotland",Urban Sharing,500
+United Kingdom,"Liverpool, England",,1000
+United Kingdom,"London, England",PBSC & 8D,13600
+United Kingdom,"Leicester, England",,NA
+United Kingdom,"Milton Keynes, England",3 Gen. nextbike,300
+United Kingdom,"Newcastle, England",ScratchBikes,60
+United Kingdom,"Nottingham, England",Sustrans & Evans Cycles,460
+United Kingdom,"Portsmouth, England",Public Velo,NA
+United Kingdom,"Slough, England",3 Gen. Smoove,60
+United Kingdom,"Southampton, England",YoBike,NA
+United States,"Ann Arbor, Michigan",3 Gen. B-Cycle,125
+United States,Atlanta,,500
+United States,"Aspen, Colorado",PBSC,200
+United States,"Austin, Texas",3 Gen. B-Cycle,375
+United States,"Austin, Texas",WhiteBikes,200
+United States,"Battle Creek, Michigan",3 Gen. B-Cycle,21
+United States,"Black Rock City, Nevada",Yellow Bikes,NA
+United States,"Boise, Idaho",Social Bicycle,117
+United States,Boston,PBSC & 8D,3800
+United States,"Boulder, Colorado",3 Gen. B-Cycle,120
+United States,"Broward County, Florida",3 Gen. B-Cycle,NA
+United States,"Charlotte, North Carolina",3 Gen. B-Cycle,200
+United States,"Chattanooga, Tennessee",PBSC,334
+United States,Chicago,PBSC & 8D,5837
+United States,"Cincinnati, Ohio",3 Gen. B-Cycle,NA
+United States,"Columbia, South Carolina",,135
+United States,"Columbus, Ohio",PBSC & 8D,335
+United States,Denver,3 Gen. B-Cycle,737
+United States,"Des Moines, Iowa",3 Gen. B-Cycle,18
+United States,"El Paso, Texas",3 Gen. B-Cycle,80
+United States,"Eugene, Oregon",PeaceHealth Rides,300
+United States,"Fairbanks, Alaska",A2B Bikeshare,NA
+United States,"Fargo, North Dakota",3 Gen. B-Cycle,101
+United States,"Fort Worth, Texas",3 Gen. B-Cycle,300
+United States,"Fullerton, California",Bike Nation,75
+United States,"Hoboken, New Jersey",3 Gen. nextbike,250
+United States,Houston,3 Gen. B-Cycle,1000
+United States,Indianapolis,B-Cycle,525
+United States,"Jersey City, New Jersey",8D,500
+United States,"Kailua, Hawaii",3 Gen. B-Cycle,12
+United States,"Kansas City, Missouri",3 Gen. B-Cycle,300
+United States,"Kona District, Hawaii",PBSC,30
+United States,"Lansing, Michigan",A2B Bikeshare,20
+United States,"Lincoln, Nebraska",3 Gen. B-Cycle,100
+United States,Los Angeles,3 Gen. B-Cycle,1700
+United States,"Madison, Wisconsin",3 Gen. B-Cycle,350
+United States,"Meridian, Colorado",Zagster,NA
+United States,"Miami Beach, Florida",SandVault,1000
+United States,Milwaukee,3 Gen. B-Cycle,400
+United States,Minneapolis–Saint Paul,PBSC & 8D,1833
+United States,New York City,PBSC & 8D,20000
+United States,Oklahoma City,Spokies,100
+United States,"Omaha, Nebraska",3 Gen. B-Cycle,35
+United States,Philadelphia,3 Gen. B-Cycle (incl. some e-bikes,1400
+United States,"Phoenix, Arizona",3 Gen. CycleHop and Social Bicycles,500
+United States,Pittsburgh,PBSC,600
+United States,"Portland, Oregon",,1000
+United States,"Portland, Oregon",1 Gen. WhiteBikes,1000
+United States,Salt Lake City,3 Gen. B-Cycle,100
+United States,San Antonio,3 Gen. B-Cycle,600
+United States,San Diego,DecoBike,1800
+United States,San Francisco Bay Area,NA,NA
+United States,San Francisco Bay Area,8D,7000
+United States,"Santa Monica, California",3 Gen. CycleHop and Social Bicycles,500
+United States,"Savannah, Georgia",3 Gen. B-Cycle,16
+United States,Seattle,8D,500
+United States,"Spartanburg, South Carolina",3 Gen. B-Cycle,40
+United States,St. Paul,1 Gen. w/ BikeCard,NA
+United States,"Springfield, Massachusetts and Pioneer Valley",,NA
+United States,"Tampa, Florida",3 Gen. CycleHop and Social Bicycles,300
+United States,Washington metropolitan area,PBSC & 8D,5
