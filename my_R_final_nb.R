@@ -1,8 +1,3 @@
-# Set your OpenWeather key before running the API section, for example:
-# Sys.setenv(OPENWEATHER_API_KEY = "your-new-key")
-# The original exposed key should be revoked and replaced.
-
-
 # IBM Data Analytics with Excel and R Professional Certificate Data Science with R - Capstone Project
 # ------------------------------------------------------------------------
 # Ikemefula Oriaku Data Scientist [SQL | Python | R]
